@@ -1,0 +1,6 @@
+RENCANA KONTEN BOB
+
+- JavaScript
+- PHP Frameworks
+- Interview
+- Vlogs
