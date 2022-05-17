@@ -5,6 +5,7 @@ RENCANA KONTEN BOB
   * Frameworks JavaScript
     ^ Vue
     ^ React
+    ^ Angular
 - Struktur Data Dasar
 - PHP Frameworks
   * Laravel
