@@ -3,6 +3,7 @@ RENCANA KONTEN BOB
 - JavaScript
   * ES6
   * Frameworks JavaScript
+- Struktur Data Dasar
 - PHP Frameworks
 - Interview
 - Vlogs
